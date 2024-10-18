@@ -2,4 +2,4 @@
 Site sobre The Chosen
 
 
-https://anaanjos19.github.io/TheChosen
+https://anaanjos19.github.io/TheChosen/
